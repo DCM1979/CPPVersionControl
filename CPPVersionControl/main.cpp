@@ -7,5 +7,6 @@ void greet()
 }
 int main()
 {
+	// That was a rude comment
 	greet();
 }
